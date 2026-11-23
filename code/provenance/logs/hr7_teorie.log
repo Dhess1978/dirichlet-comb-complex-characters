@@ -1,0 +1,6 @@
+tabulky 16004 bodů 5.4 s
+q   5 (p | q: [5]) L 10.72 | síla: Q(naivní ζ) 10.9, Q(GUE) 24.9 při M = 364 | 74 s
+q   7 (p | q: [7]) L 11.05 | síla: Q(naivní ζ) 3.3, Q(GUE) 18.3 při M = 364 | 116 s
+q  13 (p | q: [13]) L 11.67 | síla: Q(naivní ζ) 0.6, Q(GUE) 11.9 při M = 364 | 154 s
+q  15 (p | q: [3, 5]) L 11.81 | síla: Q(naivní ζ) 62.0, Q(GUE) 48.7 při M = 364 | 192 s
+q  21 (p | q: [3, 7]) L 12.15 | síla: Q(naivní ζ) 50.2, Q(GUE) 41.8 při M = 364 | 230 s

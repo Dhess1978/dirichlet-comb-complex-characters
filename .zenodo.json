@@ -1,0 +1,94 @@
+{
+  "title": "Different instruments, the same chord: the comb of resonances and the first-order phase for Dirichlet L-functions with complex characters, the cyclotomic union, and the robustness of the main resonance of study VI - a reproducible numerical study VII",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "Seventh study of the series (study I: doi:10.5281/zenodo.23815328; study II: doi:10.5281/zenodo.23928017; study III: doi:10.5281/zenodo.23991165; study IV: doi:10.5281/zenodo.24094318; study V: doi:10.5281/zenodo.24256378; study VI: doi:10.5281/zenodo.24381946). Study VI measured a comb of resonances in the variance of the windowed sums sum g x^(i gamma) over the zeros of zeta and of Dirichlet L-functions with real characters, in agreement with the two-point functions of Bogomolny and Keating. Here the measurement is extended to complex characters, and the question is what depends on the character and what only on its modulus. Every rule was recorded before the zeros were computed or, for the later additions, before the quantity was evaluated. On 1,296,658 newly computed zeros of 16 Dirichlet L-functions modulo 5, 7, 13, 15 and 21 between heights 36,000 and 80,000 (twelve with complex characters and four that complete the families modulo 15 and 21): (1) for the twelve L-functions with complex characters the comb depends on the modulus only - mean z^2 over 201 points 0.13-0.25 against the two-point function with the Euler factors of p | q removed and 11.5-49 against GUE without arithmetic, with the same comb for all 18 pairs of L-functions of one modulus; (2) the first order carries the phase of chi(p): the first Fourier coefficient of {gamma ln p/2pi} equals -w chi(p) ln p/sqrt p to 5.2e-5 in 56 combinations of these L-functions and primes, and the conjugate phase is excluded; (3) in the union of all characters of a modulus, which is the set of zeros of the Dedekind zeta function of Q(zeta_q) for q = 5, 7, 15, 21 (up to 947,573 zeros), a prime sounds only in the harmonics that are multiples of its order modulo q; (4) L-functions of one modulus share their primes, and the cross-covariance of their windowed sums equals the prime trace with the relative phase chi_a conj(chi_b); (5) the number variance saturates at a level set by the modulus; (6) the main resonance of study VI holds for another window, six error estimates and the full covariance of the scan, with GUE between 12 and 69 errors away depending on the error estimate. Three blind tests turn this into a use: from the zeros alone the modulus and the character, the primes dividing the modulus, and the orders of 16 primes in four cyclotomic fields were identified correctly, 16 of 16 in each test. Three further measurements connect the data with random matrices: the pair correlation of each L-function up to three mean spacings follows the two-point function of Bogomolny and Keating (chi^2 per bin 0.78-1.86) and not GUE alone (6.3-16.5); the spacings of the unions agree with a superposition of independent GUE spectra, one for each character, to 0.010 in the density, with a small deficit of the smallest spacings; and the deviation from GUE fades with height as predicted: between the bands 36,000-80,000 and 400,000-420,000 (178,844 further zeros) its size falls to 0.719 +- 0.021 of its value, against 0.727 predicted. A count test of Turing type found two pairs of close zeros that the search grid had stepped over; they were repaired before the evaluation. The one wrong reading outside the tests, the order of 11 in Q(zeta_21), is explained by the resolution of the band: near 11^5 the union hears the prime 161,071 twenty steps away. All 18 hypotheses are SUPPORTED. The statements tested in (2)-(4) are theorems or direct consequences of them; the two-point function behind (1), (5), (6) and the pair correlation is a conjecture. What is added is data for complex characters with null models and errors, zeros that did not exist when the rules were written, and the blind tests. Agreement is numerical support, not a proof; nothing here bears on the Riemann hypothesis. Article in English and Czech (PDF, DOCX, LaTeX, Markdown), 9 figures, the results files with every number of the article, an independent check that recomputes the statistics and the 18 verdicts from them, the rules recorded beforehand with their ten dated addenda, the manifests with the SHA-256 of every window of zeros, and the scripts as they were run. Text, figures and data CC BY 4.0, code MIT.",
+  "creators": [
+    {
+      "name": "Hess, David",
+      "affiliation": "MAYAN ALFA V1008 LAB v.34.116"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "Dirichlet L-functions",
+    "complex characters",
+    "zeros of L-functions",
+    "Riemann zeta function",
+    "Landau formula",
+    "explicit formula",
+    "Bogomolny-Keating",
+    "two-point correlation function",
+    "pair correlation",
+    "number variance",
+    "cyclotomic field",
+    "Dedekind zeta function",
+    "random matrix theory",
+    "GUE",
+    "superposition of spectra",
+    "PARI/GP",
+    "blind test"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.23815328",
+      "relation": "continues",
+      "resource_type": "publication-preprint",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.23928017",
+      "relation": "continues",
+      "resource_type": "publication-preprint",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.23991165",
+      "relation": "continues",
+      "resource_type": "publication-preprint",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.24094318",
+      "relation": "continues",
+      "resource_type": "publication-preprint",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.24256378",
+      "relation": "continues",
+      "resource_type": "publication-preprint",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.24381946",
+      "relation": "continues",
+      "resource_type": "publication-preprint",
+      "scheme": "doi"
+    }
+  ],
+  "version": "1.0",
+  "publication_date": "2026-11-23",
+  "language": "eng",
+  "notes": "Seventh study of the series; studies I-VI are doi:10.5281/zenodo.23815328, doi:10.5281/zenodo.23928017, doi:10.5281/zenodo.23991165, doi:10.5281/zenodo.24094318, doi:10.5281/zenodo.24256378 and doi:10.5281/zenodo.24381946. Code in code/ is released under the MIT licence; text, figures and data under CC BY 4.0. The record contains the article in English and in Czech (comb_complex_characters_cs.pdf, .docx).",
+  "references": [
+    "Hess, D. (2026). Berry saturation and the statistics of the Riemann zeros from t ~ 1e4 to 1e21: a reproducible numerical study. Zenodo. doi:10.5281/zenodo.23815328",
+    "Hess, D. (2026). Beyond the diagonal approximation: pair correlation, form factor and resonances of the Riemann zeros from t ~ 1e4 to 1e21 - a reproducible numerical study II. Zenodo. doi:10.5281/zenodo.23928017",
+    "Hess, D. (2026). Low-lying zeros of 795,381 quadratic Dirichlet L-functions up to conductor 1e10: the ratios conjecture, consecutive families and the first zero - a reproducible numerical study III. Zenodo. doi:10.5281/zenodo.23991165",
+    "Hess, D. (2026). Three-point correlation of the Riemann zeros at finite height: the ratios conjecture bin by bin on 147 million zeros up to t = 3e10, the amplitude of the deviation from GUE, and smaller sets further up - a reproducible numerical study IV. Zenodo. doi:10.5281/zenodo.24094318",
+    "Hess, D. (2026). Central values of quadratic Dirichlet L-functions for every fundamental discriminant up to 1e7 and at 1e8, 1e9 and 1e10 - a reproducible numerical study V. Zenodo. doi:10.5281/zenodo.24256378",
+    "Hess, D. (2026). The fractional parts of gamma ln p/2pi beyond the first order: two primes on a torus, the explicit formula with a smooth window, a comb of resonances in the variance of sum x^(i gamma), and the sign of chi_D(p) for Dirichlet L-functions - a reproducible numerical study VI. Zenodo. doi:10.5281/zenodo.24381946",
+    "Bogomolny, E. B. & Keating, J. P. (1996). Gutzwiller's trace formula and spectral statistics: beyond the diagonal approximation. Phys. Rev. Lett. 77, 1472-1475.",
+    "Bogomolny, E. & Keating, J. P. (2013). Two-point correlation function for Dirichlet L-functions. J. Phys. A 46, 095202. arXiv:1307.6010",
+    "Landau, E. (1911). Ueber die Nullstellen der Zetafunktion. Math. Ann. 71, 548-564.",
+    "Banks, W. D. (2023). Comparing zeros of distinct Dirichlet L-functions. arXiv:2302.07073",
+    "Berry, M. V. & Keating, J. P. (1999). The Riemann zeros and eigenvalue asymptotics. SIAM Review 41, 236-266.",
+    "Montgomery, H. L. (1973). The pair correlation of zeros of the zeta function. Proc. Sympos. Pure Math. 24, 181-193.",
+    "Rudnick, Z. & Sarnak, P. (1996). Zeros of principal L-functions and random matrix theory. Duke Math. J. 81, 269-322.",
+    "Bogomolny, E., Bohigas, O., Leboeuf, P. & Monastra, A. G. (2006). On the spacing distribution of the Riemann zeros: corrections to the asymptotic result. J. Phys. A 39, 10743-10754.",
+    "Bogomolny, E. & Leboeuf, P. (1994). Statistical properties of the zeros of zeta functions - beyond the Riemann case. Nonlinearity 7, 1155. arXiv:chao-dyn/9409004",
+    "Katz, N. M. & Sarnak, P. (1999). Zeroes of zeta functions and symmetry. Bull. Amer. Math. Soc. 36, 1-26.",
+    "The PARI Group (2025). PARI/GP version 2.17.2. https://pari.math.u-bordeaux.fr/",
+    "The LMFDB Collaboration. The L-functions and modular forms database. https://www.lmfdb.org"
+  ]
+}

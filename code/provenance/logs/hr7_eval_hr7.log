@@ -1,0 +1,132 @@
+pásmo 36000 < γ ≤ 80000 (440 oken u všech 12 L-funkcí)
+q5_c1      q  5 řád  4: SHA 440/440, nul 75032 (hladký počet 75032.86, rozdíl -0.86), rostoucí True → OK
+q5_c3      q  5 řád  4: SHA 440/440, nul 75033 (hladký počet 75032.86, rozdíl +0.14), rostoucí True → OK
+q7_c2      q  7 řád  3: SHA 440/440, nul 77389 (hladký počet 77389.11, rozdíl -0.11), rostoucí True → OK
+q7_c4      q  7 řád  3: SHA 440/440, nul 77388 (hladký počet 77389.11, rozdíl -1.11), rostoucí True → OK
+q7_c1      q  7 řád  6: SHA 440/440, nul 77389 (hladký počet 77389.11, rozdíl -0.11), rostoucí True → OK
+q7_c5      q  7 řád  6: SHA 440/440, nul 77389 (hladký počet 77389.11, rozdíl -0.11), rostoucí True → OK
+q13_c1     q 13 řád 12: SHA 440/440, nul 81725 (hladký počet 81724.13, rozdíl +0.87), rostoucí True → OK
+q13_c11    q 13 řád 12: SHA 440/440, nul 81724 (hladký počet 81724.13, rozdíl -0.13), rostoucí True → OK
+q15_c1-1   q 15 řád  4: SHA 440/440, nul 82726 (hladký počet 82726.24, rozdíl -0.24), rostoucí True → OK
+q15_c3-1   q 15 řád  4: SHA 440/440, nul 82726 (hladký počet 82726.24, rozdíl -0.24), rostoucí True → OK
+q21_c1-1   q 21 řád  6: SHA 440/440, nul 85082 (hladký počet 85082.49, rozdíl -0.49), rostoucí True → OK
+q21_c5-1   q 21 řád  6: SHA 440/440, nul 85082 (hladký počet 85082.49, rozdíl -0.49), rostoucí True → OK
+q5_c1      40 náhodných nul v mpmath (Hurwitzova ζ): největší |L(½ + iγ, χ)| = 9.98e-10 → OK (157 s)
+q5_c3      40 náhodných nul v mpmath (Hurwitzova ζ): největší |L(½ + iγ, χ)| = 6.15e-10 → OK (313 s)
+q7_c2      40 náhodných nul v mpmath (Hurwitzova ζ): největší |L(½ + iγ, χ)| = 7.82e-10 → OK (527 s)
+q7_c4      40 náhodných nul v mpmath (Hurwitzova ζ): největší |L(½ + iγ, χ)| = 8.45e-10 → OK (775 s)
+q7_c1      40 náhodných nul v mpmath (Hurwitzova ζ): největší |L(½ + iγ, χ)| = 1.17e-09 → OK (993 s)
+q7_c5      40 náhodných nul v mpmath (Hurwitzova ζ): největší |L(½ + iγ, χ)| = 1.30e-09 → OK (1117 s)
+q13_c1     40 náhodných nul v mpmath (Hurwitzova ζ): největší |L(½ + iγ, χ)| = 1.23e-09 → OK (1498 s)
+q13_c11    40 náhodných nul v mpmath (Hurwitzova ζ): největší |L(½ + iγ, χ)| = 8.10e-10 → OK (1783 s)
+q15_c1-1   40 náhodných nul v mpmath (Hurwitzova ζ): největší |L(½ + iγ, χ)| = 1.29e-09 → OK (1960 s)
+q15_c3-1   40 náhodných nul v mpmath (Hurwitzova ζ): největší |L(½ + iγ, χ)| = 1.15e-09 → OK (2128 s)
+q21_c1-1   40 náhodných nul v mpmath (Hurwitzova ζ): největší |L(½ + iγ, χ)| = 7.16e-10 → OK (2425 s)
+q21_c5-1   40 náhodných nul v mpmath (Hurwitzova ζ): největší |L(½ + iγ, χ)| = 1.18e-09 → OK (2679 s)
+tabulky 16004 bodů 3.1 s
+3.1 q5_c1      q  5: 2183 oken (M 364) | Q proti BK_q 0.13, naivní ζ 11.07, GUE 25.27 | největší |z| 1.42 | 2732 s
+3.1 q5_c3      q  5: 2183 oken (M 364) | Q proti BK_q 0.17, naivní ζ 11.08, GUE 24.95 | největší |z| 1.25 | 2748 s
+3.1 q7_c2      q  7: 2183 oken (M 364) | Q proti BK_q 0.14, naivní ζ 3.49, GUE 18.48 | největší |z| 1.04 | 2799 s
+3.1 q7_c4      q  7: 2183 oken (M 364) | Q proti BK_q 0.14, naivní ζ 3.65, GUE 18.69 | největší |z| 1.06 | 2815 s
+3.1 q7_c1      q  7: 2183 oken (M 364) | Q proti BK_q 0.15, naivní ζ 3.32, GUE 18.40 | největší |z| 1.19 | 2832 s
+3.1 q7_c5      q  7: 2183 oken (M 364) | Q proti BK_q 0.14, naivní ζ 3.35, GUE 18.27 | největší |z| 0.97 | 2848 s
+3.1 q13_c1     q 13: 2183 oken (M 364) | Q proti BK_q 0.22, naivní ζ 0.78, GUE 11.96 | největší |z| 1.37 | 2900 s
+3.1 q13_c11    q 13: 2183 oken (M 364) | Q proti BK_q 0.24, naivní ζ 0.78, GUE 11.48 | největší |z| 1.66 | 2918 s
+3.1 q15_c1-1   q 15: 2183 oken (M 364) | Q proti BK_q 0.20, naivní ζ 61.16, GUE 49.08 | největší |z| 1.47 | 2968 s
+3.1 q15_c3-1   q 15: 2183 oken (M 364) | Q proti BK_q 0.23, naivní ζ 64.08, GUE 48.52 | největší |z| 1.41 | 2986 s
+3.1 q21_c1-1   q 21: 2183 oken (M 364) | Q proti BK_q 0.20, naivní ζ 52.72, GUE 42.78 | největší |z| 1.06 | 3036 s
+3.1 q21_c5-1   q 21: 2183 oken (M 364) | Q proti BK_q 0.25, naivní ζ 50.35, GUE 42.66 | největší |z| 1.57 | 3053 s
+3.2 reference studie VI D = 5: 75033 nul, 2183 oken
+3.2 reference studie VI D = -7: 77389 nul, 2183 oken
+3.2 reference studie VI D = 13: 81724 nul, 2183 oken
+3.2 stejný modul q5_c1 × q5_c3            Q_ab 0.13
+3.2 stejný modul q5_c1 × VI_D5            Q_ab 0.17
+3.2 stejný modul q5_c3 × VI_D5            Q_ab 0.23
+3.2 stejný modul q7_c2 × q7_c4            Q_ab 0.15
+3.2 stejný modul q7_c2 × q7_c1            Q_ab 0.14
+3.2 stejný modul q7_c2 × q7_c5            Q_ab 0.18
+3.2 stejný modul q7_c2 × VI_D-7           Q_ab 0.14
+3.2 stejný modul q7_c4 × q7_c1            Q_ab 0.19
+3.2 stejný modul q7_c4 × q7_c5            Q_ab 0.14
+3.2 stejný modul q7_c4 × VI_D-7           Q_ab 0.18
+3.2 stejný modul q7_c1 × q7_c5            Q_ab 0.17
+3.2 stejný modul q7_c1 × VI_D-7           Q_ab 0.15
+3.2 stejný modul q7_c5 × VI_D-7           Q_ab 0.15
+3.2 stejný modul q13_c1 × q13_c11         Q_ab 0.29
+3.2 stejný modul q13_c1 × VI_D13          Q_ab 0.25
+3.2 stejný modul q13_c11 × VI_D13         Q_ab 0.24
+3.2 stejný modul q15_c1-1 × q15_c3-1      Q_ab 0.23
+3.2 stejný modul q21_c1-1 × q21_c5-1      Q_ab 0.28
+3.2 kontrola síly q5_c1 × q15_c1-1        Q_ab 16.10
+3.2 kontrola síly q7_c1 × q21_c1-1        Q_ab 15.28
+3.2 kontrola síly q13_c1 × q15_c3-1       Q_ab 20.08
+3.3 q5_c1      p  2 χ(p) +0.000+1.000i: |c − c_pred| 1.8e-05 | χ²   21.9 (p 1) | sdružená    1844.2 (p 0) | rovnoměrné     643.6
+3.3 q5_c1      p  3 χ(p) +0.000-1.000i: |c − c_pred| 3.2e-05 | χ²   22.8 (p 1) | sdružená    2525.8 (p 0) | rovnoměrné     806.0
+3.3 q5_c1      p  7 χ(p) +0.000+1.000i: |c − c_pred| 1.9e-05 | χ²   24.7 (p 0.998) | sdružená    2957.4 (p 0) | rovnoměrné     849.8
+3.3 q5_c1      p 11 χ(p) +1.000+0.000i: |c − c_pred| 9.4e-06 | χ²   35.8 (p 0.92) | sdružená      35.8 (p 0.92) | rovnoměrné     771.5
+3.3 q5_c1      p 13 χ(p) +0.000-1.000i: |c − c_pred| 2.1e-05 | χ²   41.2 (p 0.778) | sdružená    2703.6 (p 0) | rovnoměrné     753.1
+3.3 q5_c3      p  2 χ(p) +0.000-1.000i: |c − c_pred| 4.4e-06 | χ²   19.6 (p 1) | sdružená    1886.8 (p 0) | rovnoměrné     645.8
+3.3 q5_c3      p  3 χ(p) +0.000+1.000i: |c − c_pred| 3.8e-05 | χ²   32.7 (p 0.965) | sdružená    2590.3 (p 0) | rovnoměrné     820.7
+3.3 q5_c3      p  7 χ(p) +0.000-1.000i: |c − c_pred| 2.5e-05 | χ²   41.3 (p 0.775) | sdružená    2999.7 (p 0) | rovnoměrné     851.6
+3.3 q5_c3      p 11 χ(p) +1.000+0.000i: |c − c_pred| 9.7e-06 | χ²   37.1 (p 0.894) | sdružená      37.1 (p 0.89) | rovnoměrné     776.2
+3.3 q5_c3      p 13 χ(p) +0.000+1.000i: |c − c_pred| 9.0e-06 | χ²   32.0 (p 0.972) | sdružená    2686.2 (p 0) | rovnoměrné     736.5
+3.3 q7_c2      p  2 χ(p) -0.500-0.866i: |c − c_pred| 2.8e-06 | χ²   21.7 (p 1) | sdružená    1769.4 (p 0) | rovnoměrné     625.1
+3.3 q7_c2      p  3 χ(p) -0.500+0.866i: |c − c_pred| 3.2e-05 | χ²   30.8 (p 0.981) | sdružená    2286.4 (p 0) | rovnoměrné     792.9
+3.3 q7_c2      p  5 χ(p) -0.500-0.866i: |c − c_pred| 3.8e-05 | χ²   27.7 (p 0.994) | sdružená    2444.9 (p 0) | rovnoměrné     843.0
+3.3 q7_c2      p 11 χ(p) -0.500+0.866i: |c − c_pred| 1.2e-05 | χ²   42.0 (p 0.75) | sdružená    2180.1 (p 0) | rovnoměrné     768.6
+3.3 q7_c2      p 13 χ(p) +1.000+0.000i: |c − c_pred| 2.3e-05 | χ²   50.0 (p 0.435) | sdružená      50.0 (p 0.43) | rovnoměrné     737.8
+3.3 q7_c4      p  2 χ(p) -0.500+0.866i: |c − c_pred| 2.0e-05 | χ²   26.6 (p 0.996) | sdružená    1745.0 (p 0) | rovnoměrné     631.3
+3.3 q7_c4      p  3 χ(p) -0.500-0.866i: |c − c_pred| 3.2e-05 | χ²   32.3 (p 0.969) | sdružená    2323.8 (p 0) | rovnoměrné     796.9
+3.3 q7_c4      p  5 χ(p) -0.500+0.866i: |c − c_pred| 2.3e-05 | χ²   31.4 (p 0.976) | sdružená    2504.6 (p 0) | rovnoměrné     849.4
+3.3 q7_c4      p 11 χ(p) -0.500-0.866i: |c − c_pred| 1.7e-05 | χ²   41.0 (p 0.783) | sdružená    2215.6 (p 0) | rovnoměrné     768.1
+3.3 q7_c4      p 13 χ(p) +1.000+0.000i: |c − c_pred| 2.7e-05 | χ²   45.4 (p 0.621) | sdružená      45.4 (p 0.62) | rovnoměrné     726.5
+3.3 q7_c1      p  2 χ(p) -0.500+0.866i: |c − c_pred| 7.4e-06 | χ²   25.3 (p 0.998) | sdružená    1770.6 (p 0) | rovnoměrné     627.1
+3.3 q7_c1      p  3 χ(p) +0.500+0.866i: |c − c_pred| 3.1e-05 | χ²   33.6 (p 0.954) | sdružená    2304.6 (p 0) | rovnoměrné     797.1
+3.3 q7_c1      p  5 χ(p) +0.500-0.866i: |c − c_pred| 2.5e-05 | χ²   42.1 (p 0.747) | sdružená    2476.0 (p 0) | rovnoměrné     858.4
+3.3 q7_c1      p 11 χ(p) -0.500-0.866i: |c − c_pred| 8.9e-06 | χ²   60.0 (p 0.134) | sdružená    2268.1 (p 0) | rovnoměrné     780.6
+3.3 q7_c1      p 13 χ(p) -1.000+0.000i: |c − c_pred| 1.6e-05 | χ²   36.7 (p 0.903) | sdružená      36.7 (p 0.9) | rovnoměrné     731.2
+3.3 q7_c5      p  2 χ(p) -0.500-0.866i: |c − c_pred| 9.4e-06 | χ²   30.8 (p 0.98) | sdružená    1774.0 (p 0) | rovnoměrné     629.2
+3.3 q7_c5      p  3 χ(p) +0.500-0.866i: |c − c_pred| 3.4e-05 | χ²   33.6 (p 0.955) | sdružená    2248.8 (p 0) | rovnoměrné     793.6
+3.3 q7_c5      p  5 χ(p) +0.500+0.866i: |c − c_pred| 2.5e-05 | χ²   40.2 (p 0.81) | sdružená    2533.9 (p 0) | rovnoměrné     858.7
+3.3 q7_c5      p 11 χ(p) -0.500+0.866i: |c − c_pred| 7.3e-06 | χ²   35.3 (p 0.929) | sdružená    2238.2 (p 0) | rovnoměrné     757.1
+3.3 q7_c5      p 13 χ(p) -1.000+0.000i: |c − c_pred| 5.0e-06 | χ²   57.8 (p 0.183) | sdružená      57.8 (p 0.18) | rovnoměrné     750.0
+3.3 q13_c1     p  2 χ(p) +0.866+0.500i: |c − c_pred| 9.2e-06 | χ²   37.4 (p 0.887) | sdružená    1336.2 (p 1.4e-247) | rovnoměrné     609.1
+3.3 q13_c1     p  3 χ(p) -0.500+0.866i: |c − c_pred| 4.0e-05 | χ²   24.7 (p 0.999) | sdružená    2165.7 (p 0) | rovnoměrné     750.2
+3.3 q13_c1     p  5 χ(p) +0.000-1.000i: |c − c_pred| 3.2e-05 | χ²   31.4 (p 0.976) | sdružená    2674.7 (p 0) | rovnoměrné     805.8
+3.3 q13_c1     p  7 χ(p) +0.866-0.500i: |c − c_pred| 8.5e-06 | χ²   41.8 (p 0.759) | sdružená    1059.8 (p 6.3e-190) | rovnoměrné     788.8
+3.3 q13_c1     p 11 χ(p) -0.866-0.500i: |c − c_pred| 2.3e-05 | χ²   37.6 (p 0.883) | sdružená     885.4 (p 7.1e-154) | rovnoměrné     718.8
+3.3 q13_c11    p  2 χ(p) +0.866-0.500i: |c − c_pred| 6.4e-06 | χ²   25.2 (p 0.998) | sdružená    1310.5 (p 3.4e-242) | rovnoměrné     594.1
+3.3 q13_c11    p  3 χ(p) -0.500-0.866i: |c − c_pred| 5.2e-05 | χ²   29.8 (p 0.986) | sdružená    2151.8 (p 0) | rovnoměrné     746.8
+3.3 q13_c11    p  5 χ(p) +0.000+1.000i: |c − c_pred| 2.4e-05 | χ²   50.0 (p 0.433) | sdružená    2635.4 (p 0) | rovnoměrné     819.9
+3.3 q13_c11    p  7 χ(p) +0.866+0.500i: |c − c_pred| 1.3e-05 | χ²   49.0 (p 0.471) | sdružená    1084.6 (p 4.5e-195) | rovnoměrné     803.7
+3.3 q13_c11    p 11 χ(p) -0.866+0.500i: |c − c_pred| 1.0e-05 | χ²   60.0 (p 0.135) | sdružená     908.3 (p 1.4e-158) | rovnoměrné     747.8
+3.3 q15_c1-1   p  2 χ(p) +0.000-1.000i: |c − c_pred| 6.6e-06 | χ²   30.6 (p 0.982) | sdružená    1684.7 (p 0) | rovnoměrné     598.3
+3.3 q15_c1-1   p  7 χ(p) +0.000+1.000i: |c − c_pred| 1.6e-05 | χ²   38.1 (p 0.871) | sdružená    2660.8 (p 0) | rovnoměrné     779.1
+3.3 q15_c1-1   p 11 χ(p) -1.000+0.000i: |c − c_pred| 1.1e-05 | χ²   27.1 (p 0.995) | sdružená      27.1 (p 1) | rovnoměrné     706.7
+3.3 q15_c1-1   p 13 χ(p) +0.000-1.000i: |c − c_pred| 2.2e-05 | χ²   48.4 (p 0.496) | sdružená    2420.7 (p 0) | rovnoměrné     690.9
+3.3 q15_c3-1   p  2 χ(p) +0.000+1.000i: |c − c_pred| 6.6e-06 | χ²   26.1 (p 0.997) | sdružená    1703.0 (p 0) | rovnoměrné     591.9
+3.3 q15_c3-1   p  7 χ(p) +0.000-1.000i: |c − c_pred| 8.8e-06 | χ²   41.4 (p 0.771) | sdružená    2726.0 (p 0) | rovnoměrné     779.1
+3.3 q15_c3-1   p 11 χ(p) -1.000+0.000i: |c − c_pred| 1.1e-05 | χ²   50.1 (p 0.428) | sdružená      50.1 (p 0.43) | rovnoměrné     728.8
+3.3 q15_c3-1   p 13 χ(p) +0.000+1.000i: |c − c_pred| 2.2e-05 | χ²   38.9 (p 0.849) | sdružená    2447.7 (p 0) | rovnoměrné     687.4
+3.3 q21_c1-1   p  2 χ(p) +0.500-0.866i: |c − c_pred| 8.8e-06 | χ²   23.3 (p 0.999) | sdružená    1583.8 (p 1.3e-299) | rovnoměrné     571.1
+3.3 q21_c1-1   p  5 χ(p) -0.500+0.866i: |c − c_pred| 2.9e-05 | χ²   25.8 (p 0.997) | sdružená    2308.0 (p 0) | rovnoměrné     769.6
+3.3 q21_c1-1   p 11 χ(p) +0.500+0.866i: |c − c_pred| 1.7e-05 | χ²   25.2 (p 0.998) | sdružená    2001.9 (p 0) | rovnoměrné     684.8
+3.3 q21_c1-1   p 13 χ(p) -1.000+0.000i: |c − c_pred| 1.1e-05 | χ²   45.8 (p 0.605) | sdružená      45.8 (p 0.61) | rovnoměrné     670.0
+3.3 q21_c5-1   p  2 χ(p) +0.500+0.866i: |c − c_pred| 1.0e-05 | χ²   33.6 (p 0.955) | sdružená    1601.2 (p 2.7e-303) | rovnoměrné     581.7
+3.3 q21_c5-1   p  5 χ(p) -0.500-0.866i: |c − c_pred| 3.8e-05 | χ²   37.2 (p 0.892) | sdružená    2273.8 (p 0) | rovnoměrné     780.0
+3.3 q21_c5-1   p 11 χ(p) +0.500-0.866i: |c − c_pred| 8.2e-06 | χ²   44.7 (p 0.647) | sdružená    2059.2 (p 0) | rovnoměrné     706.2
+3.3 q21_c5-1   p 13 χ(p) -1.000+0.000i: |c − c_pred| 8.8e-06 | χ²   53.4 (p 0.31) | sdružená      53.4 (p 0.31) | rovnoměrné     680.0
+3.4 960 bodů, největší |Z − P|/N_g = 1.39e-11 (ostré okno do 6.22e-02) | 3120 s
+3.5 q5_c1      z: +0.00, -0.00, -0.06, -0.03
+3.5 q5_c3      z: -0.00, +0.00, -0.02, +0.01
+3.5 q7_c2      z: +0.00, -0.00, -0.05, +0.04
+3.5 q7_c4      z: +0.00, -0.00, +0.00, +0.01
+3.5 q7_c1      z: -0.00, +0.00, -0.00, +0.00
+3.5 q7_c5      z: -0.00, +0.01, -0.03, -0.04
+3.5 q13_c1     z: -0.00, -0.00, +0.01, -0.00
+3.5 q13_c11    z: -0.00, -0.00, +0.03, -0.01
+3.5 q15_c1-1   z: -0.00, +0.00, +0.04, +0.01
+3.5 q15_c3-1   z: +0.00, -0.00, +0.03, -0.01
+3.5 q21_c1-1   z: +0.00, +0.01, +0.01, -0.02
+3.5 q21_c5-1   z: +0.00, +0.00, +0.04, +0.04
+VERDIKTY: {'odv-hr7-hreben': 'O', 'odv-hr7-nastroje': 'O', 'odv-hr7-faze': 'O', 'odv-hr7-presne': 'O', 'odv-hr7-diag': 'O'} | 3493 s

@@ -1,0 +1,29 @@
+{
+ "skript_sha256": "a121fe52f1f2b2b7e2a377d4cdd4da69fbfde81e7583c9b8933575f61eac7e92",
+ "L": {
+  "q15_c2-1": {
+   "slozka": "HR7C_nuly_2026_11_22",
+   "n": 43907,
+   "nejvetsi_abs_mimo_skoky": 0.006386022549122572,
+   "skoky": []
+  },
+  "q21_c3-1": {
+   "slozka": "HR7C_nuly_2026_11_22",
+   "n": 44979,
+   "nejvetsi_abs_mimo_skoky": 0.012319164234213531,
+   "skoky": []
+  },
+  "q21_c2-1": {
+   "slozka": "HR7C_nuly_2026_11_22",
+   "n": 44978,
+   "nejvetsi_abs_mimo_skoky": 0.0116551493993029,
+   "skoky": []
+  },
+  "q21_c4-1": {
+   "slozka": "HR7C_nuly_2026_11_22",
+   "n": 44980,
+   "nejvetsi_abs_mimo_skoky": 0.012301921844482422,
+   "skoky": []
+  }
+ }
+}

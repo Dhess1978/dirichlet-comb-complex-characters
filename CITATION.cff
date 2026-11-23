@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: dataset
+title: "Different instruments, the same chord: the comb of resonances and the first-order phase for Dirichlet L-functions with complex characters, the cyclotomic union, and the robustness of the main resonance of study VI - a reproducible numerical study VII"
+version: "1.0"
+date-released: "2026-11-23"
+license: ["CC-BY-4.0", "MIT"]
+authors:
+  - family-names: "Hess"
+    given-names: "David"
+    affiliation: "MAYAN ALFA V1008 LAB v.34.116"
+keywords: ["Dirichlet L-functions", "complex characters", "zeros of L-functions", "Riemann zeta function", "Landau formula", "explicit formula", "Bogomolny-Keating", "two-point correlation function", "pair correlation", "number variance", "cyclotomic field", "Dedekind zeta function", "random matrix theory", "GUE", "superposition of spectra", "PARI/GP", "blind test"]
+references:
+  - type: generic
+    title: "Berry saturation and the statistics of the Riemann zeros from t ~ 1e4 to 1e21: a reproducible numerical study"
+    authors:
+      - family-names: "Hess"
+        given-names: "David"
+    year: 2026
+    doi: "10.5281/zenodo.23815328"
+  - type: generic
+    title: "Beyond the diagonal approximation: pair correlation, form factor and resonances of the Riemann zeros from t ~ 1e4 to 1e21 - a reproducible numerical study II"
+    authors:
+      - family-names: "Hess"
+        given-names: "David"
+    year: 2026
+    doi: "10.5281/zenodo.23928017"
+  - type: generic
+    title: "Low-lying zeros of 795,381 quadratic Dirichlet L-functions up to conductor 1e10: the ratios conjecture, consecutive families and the first zero - a reproducible numerical study III"
+    authors:
+      - family-names: "Hess"
+        given-names: "David"
+    year: 2026
+    doi: "10.5281/zenodo.23991165"
+  - type: generic
+    title: "Three-point correlation of the Riemann zeros at finite height: the ratios conjecture bin by bin on 147 million zeros up to t = 3e10, the amplitude of the deviation from GUE, and smaller sets further up - a reproducible numerical study IV"
+    authors:
+      - family-names: "Hess"
+        given-names: "David"
+    year: 2026
+    doi: "10.5281/zenodo.24094318"
+  - type: generic
+    title: "Central values of quadratic Dirichlet L-functions for every fundamental discriminant up to 1e7 and at 1e8, 1e9 and 1e10 - a reproducible numerical study V"
+    authors:
+      - family-names: "Hess"
+        given-names: "David"
+    year: 2026
+    doi: "10.5281/zenodo.24256378"
+  - type: generic
+    title: "The fractional parts of gamma ln p/2pi beyond the first order: two primes on a torus, the explicit formula with a smooth window, a comb of resonances in the variance of sum x^(i gamma), and the sign of chi_D(p) for Dirichlet L-functions - a reproducible numerical study VI"
+    authors:
+      - family-names: "Hess"
+        given-names: "David"
+    year: 2026
+    doi: "10.5281/zenodo.24381946"

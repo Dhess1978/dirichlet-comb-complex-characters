@@ -1,0 +1,101 @@
+{
+ "skript_sha256": "a121fe52f1f2b2b7e2a377d4cdd4da69fbfde81e7583c9b8933575f61eac7e92",
+ "L": {
+  "q5_c1": {
+   "slozka": "HR7_nuly_2026_11_20",
+   "n": 75032,
+   "nejvetsi_abs_mimo_skoky": 0.01096469402546063,
+   "skoky": []
+  },
+  "q5_c3": {
+   "slozka": "HR7_nuly_2026_11_20",
+   "n": 75033,
+   "nejvetsi_abs_mimo_skoky": 0.011331517693179194,
+   "skoky": []
+  },
+  "q7_c2": {
+   "slozka": "HR7_nuly_2026_11_20",
+   "n": 77389,
+   "nejvetsi_abs_mimo_skoky": 0.011300846337690018,
+   "skoky": []
+  },
+  "q7_c4": {
+   "slozka": "HR7_nuly_2026_11_20",
+   "n": 77388,
+   "nejvetsi_abs_mimo_skoky": 0.01134776949766092,
+   "skoky": []
+  },
+  "q7_c1": {
+   "slozka": "HR7_nuly_2026_11_20",
+   "n": 77389,
+   "nejvetsi_abs_mimo_skoky": 0.01138400435593212,
+   "skoky": []
+  },
+  "q7_c5": {
+   "slozka": "HR7_nuly_2026_11_20",
+   "n": 77389,
+   "nejvetsi_abs_mimo_skoky": 0.011609438057348598,
+   "skoky": []
+  },
+  "q13_c1": {
+   "slozka": "HR7_nuly_2026_11_20",
+   "n": 81725,
+   "nejvetsi_abs_mimo_skoky": 0.011870210175402462,
+   "skoky": []
+  },
+  "q13_c11": {
+   "slozka": "HR7_nuly_2026_11_20",
+   "n": 81724,
+   "nejvetsi_abs_mimo_skoky": 0.012285800577956252,
+   "skoky": []
+  },
+  "q15_c1-1": {
+   "slozka": "HR7_nuly_2026_11_20",
+   "n": 82726,
+   "nejvetsi_abs_mimo_skoky": 0.0089162504664273,
+   "skoky": []
+  },
+  "q15_c3-1": {
+   "slozka": "HR7_nuly_2026_11_20",
+   "n": 82726,
+   "nejvetsi_abs_mimo_skoky": 0.009141165020992048,
+   "skoky": []
+  },
+  "q21_c1-1": {
+   "slozka": "HR7_nuly_2026_11_20",
+   "n": 85082,
+   "nejvetsi_abs_mimo_skoky": 0.009769331212737598,
+   "skoky": []
+  },
+  "q21_c5-1": {
+   "slozka": "HR7_nuly_2026_11_20",
+   "n": 85082,
+   "nejvetsi_abs_mimo_skoky": 0.010252422100165859,
+   "skoky": []
+  },
+  "q15_c2-1": {
+   "slozka": "HR7B_slouceno",
+   "n": 82726,
+   "nejvetsi_abs_mimo_skoky": 0.009069112536963075,
+   "skoky": []
+  },
+  "q21_c3-1": {
+   "slozka": "HR7B_slouceno",
+   "n": 85082,
+   "nejvetsi_abs_mimo_skoky": 0.009975683686207049,
+   "skoky": []
+  },
+  "q21_c2-1": {
+   "slozka": "HR7B_slouceno",
+   "n": 85083,
+   "nejvetsi_abs_mimo_skoky": 0.010205430990026798,
+   "skoky": []
+  },
+  "q21_c4-1": {
+   "slozka": "HR7B_slouceno",
+   "n": 85082,
+   "nejvetsi_abs_mimo_skoky": 0.010126709938049316,
+   "skoky": []
+  }
+ }
+}

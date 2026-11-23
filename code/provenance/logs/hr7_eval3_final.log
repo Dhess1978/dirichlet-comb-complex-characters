@@ -1,0 +1,42 @@
+pásmo 36000 < γ ≤ 80000; {'q5_c1': 75032, 'q5_c3': 75033, 'q7_c2': 77389, 'q7_c4': 77388, 'q7_c1': 77389, 'q7_c5': 77389, 'q13_c1': 81725, 'q13_c11': 81724, 'q15_c1-1': 82726, 'q15_c3-1': 82726, 'q21_c1-1': 85082, 'q21_c5-1': 85082, 'q15_c2-1': 82726, 'q21_c3-1': 85082, 'q21_c2-1': 85083, 'q21_c4-1': 85082, 'VI_D-3': 71455, 'VI_D5': 75033, 'VI_D-7': 77389, 'zeta': 63763} | 3 s
+3.11 q5_c1      dělitelé [5] → vybráno q = 5, χ = [1] (S 6.42e-07; druhý S 6.75) | pravda q = 5, χ = [1] → SPRÁVNĚ
+3.11 q5_c3      dělitelé [5] → vybráno q = 5, χ = [3] (S 5.83e-07; druhý S 6.75) | pravda q = 5, χ = [3] → SPRÁVNĚ
+3.11 q7_c2      dělitelé [7] → vybráno q = 7, χ = [2] (S 8.11e-07; druhý S 12.00) | pravda q = 7, χ = [2] → SPRÁVNĚ
+3.11 q7_c4      dělitelé [7] → vybráno q = 7, χ = [4] (S 8.67e-07; druhý S 12.00) | pravda q = 7, χ = [4] → SPRÁVNĚ
+3.11 q7_c1      dělitelé [7] → vybráno q = 7, χ = [1] (S 5.31e-07; druhý S 12.00) | pravda q = 7, χ = [1] → SPRÁVNĚ
+3.11 q7_c5      dělitelé [7] → vybráno q = 7, χ = [5] (S 5.69e-07; druhý S 12.00) | pravda q = 7, χ = [5] → SPRÁVNĚ
+3.11 q13_c1     dělitelé [13] → vybráno q = 13, χ = [1] (S 1.02e-06; druhý S 8.00) | pravda q = 13, χ = [1] → SPRÁVNĚ
+3.11 q13_c11    dělitelé [13] → vybráno q = 13, χ = [11] (S 1.14e-06; druhý S 8.00) | pravda q = 13, χ = [11] → SPRÁVNĚ
+3.11 q15_c1-1   dělitelé [3, 5] → vybráno q = 15, χ = [1,1] (S 2.64e-07; druhý S 6.00) | pravda q = 15, χ = [1,1] → SPRÁVNĚ
+3.11 q15_c3-1   dělitelé [3, 5] → vybráno q = 15, χ = [3,1] (S 2.13e-07; druhý S 6.00) | pravda q = 15, χ = [3,1] → SPRÁVNĚ
+3.11 q21_c1-1   dělitelé [3, 7] → vybráno q = 21, χ = [1,1] (S 4.07e-07; druhý S 8.00) | pravda q = 21, χ = [1,1] → SPRÁVNĚ
+3.11 q21_c5-1   dělitelé [3, 7] → vybráno q = 21, χ = [5,1] (S 5.10e-07; druhý S 8.00) | pravda q = 21, χ = [5,1] → SPRÁVNĚ
+3.11 q15_c2-1   dělitelé [3, 5] → vybráno q = 15, χ = [2,1] (S 7.82e-08; druhý S 6.00) | pravda q = 15, χ = [2,1] → SPRÁVNĚ
+3.11 q21_c3-1   dělitelé [3, 7] → vybráno q = 21, χ = [3,1] (S 4.18e-07; druhý S 9.00) | pravda q = 21, χ = [3,1] → SPRÁVNĚ
+3.11 q21_c2-1   dělitelé [3, 7] → vybráno q = 21, χ = [2,1] (S 4.51e-07; druhý S 8.00) | pravda q = 21, χ = [2,1] → SPRÁVNĚ
+3.11 q21_c4-1   dělitelé [3, 7] → vybráno q = 21, χ = [4,1] (S 6.29e-07; druhý S 8.00) | pravda q = 21, χ = [4,1] → SPRÁVNĚ
+tabulky 16004 bodů 2.8 s
+3.12 q5_c1      q  5: vybráno S = [5] (Q 0.13; druhé nejlepší 7.15) | pravda [5] → SPRÁVNĚ | 233 s
+3.12 q5_c3      q  5: vybráno S = [5] (Q 0.17; druhé nejlepší 7.34) | pravda [5] → SPRÁVNĚ | 247 s
+3.12 q7_c2      q  7: vybráno S = [7] (Q 0.14; druhé nejlepší 3.49) | pravda [7] → SPRÁVNĚ | 469 s
+3.12 q7_c4      q  7: vybráno S = [7] (Q 0.14; druhé nejlepší 3.65) | pravda [7] → SPRÁVNĚ | 484 s
+3.12 q7_c1      q  7: vybráno S = [7] (Q 0.15; druhé nejlepší 3.32) | pravda [7] → SPRÁVNĚ | 499 s
+3.12 q7_c5      q  7: vybráno S = [7] (Q 0.14; druhé nejlepší 3.35) | pravda [7] → SPRÁVNĚ | 514 s
+3.12 q13_c1     q 13: vybráno S = [] (Q 0.78; druhé nejlepší 2.25) | pravda [] → SPRÁVNĚ | 738 s
+3.12 q13_c11    q 13: vybráno S = [] (Q 0.78; druhé nejlepší 2.25) | pravda [] → SPRÁVNĚ | 754 s
+3.12 q15_c1-1   q 15: vybráno S = [3, 5] (Q 0.20; druhé nejlepší 9.36) | pravda [3, 5] → SPRÁVNĚ | 979 s
+3.12 q15_c3-1   q 15: vybráno S = [3, 5] (Q 0.23; druhé nejlepší 9.57) | pravda [3, 5] → SPRÁVNĚ | 996 s
+3.12 q21_c1-1   q 21: vybráno S = [3, 7] (Q 0.20; druhé nejlepší 10.97) | pravda [3, 7] → SPRÁVNĚ | 1258 s
+3.12 q21_c5-1   q 21: vybráno S = [3, 7] (Q 0.25; druhé nejlepší 10.89) | pravda [3, 7] → SPRÁVNĚ | 1275 s
+3.12 q15_c2-1   q 15: vybráno S = [3, 5] (Q 0.24; druhé nejlepší 9.39) | pravda [3, 5] → SPRÁVNĚ | 1291 s
+3.12 q21_c3-1   q 21: vybráno S = [3, 7] (Q 0.19; druhé nejlepší 10.51) | pravda [3, 7] → SPRÁVNĚ | 1308 s
+3.12 q21_c2-1   q 21: vybráno S = [3, 7] (Q 0.14; druhé nejlepší 10.39) | pravda [3, 7] → SPRÁVNĚ | 1325 s
+3.12 q21_c4-1   q 21: vybráno S = [3, 7] (Q 0.29; druhé nejlepší 10.97) | pravda [3, 7] → SPRÁVNĚ | 1342 s
+3.13 Q(ζ5): 4 sektorů, N_U 288861, σ̂ 2.4e-05 | řády f̂: {2: 4, 3: 4, 7: 4, 11: 1, 13: 4} | předpověď {2: 4, 3: 4, 7: 4, 11: 1}
+3.13 Q(ζ7): 6 sektorů, N_U 450707, σ̂ 3.1e-05 | řády f̂: {2: 3, 3: 6, 5: 6, 11: 3, 13: 2, 29: 1} | předpověď {2: 3, 3: 6, 11: 3, 13: 2, 29: 1}
+3.13 Q(ζ15): 8 sektorů, N_U 608494, σ̂ 1.5e-05 | řády f̂: {2: 4, 7: 4, 11: 2, 13: 4, 31: 1} | předpověď {2: 4, 7: 4, 11: 2, 31: 1}
+3.13 Q(ζ21): 12 sektorů, N_U 947573, σ̂ 1.2e-05 | řády f̂: {2: 6, 5: 6, 11: 5, 13: 2, 43: 1} | předpověď {2: 6, 13: 2, 43: 1}
+mez q 5: {'q5_c1': {'2': 3.29, '3': 0.26, '5': 0.26, '7': 0.18, '11': 0.16, '13': 0.15, 'vse': 0.13}, 'q5_c3': {'2': 3.27, '3': 0.34, '5': 0.34, '7': 0.24, '11': 0.21, '13': 0.19, 'vse': 0.17}}
+mez q 15: {'q15_c1-1': {'2': 0.49, '3': 0.49, '5': 0.49, '7': 0.31, '11': 0.23, '13': 0.21, 'vse': 0.2}, 'q15_c3-1': {'2': 0.51, '3': 0.51, '5': 0.51, '7': 0.31, '11': 0.26, '13': 0.24, 'vse': 0.23}, 'q15_c2-1': {'2': 0.43, '3': 0.43, '5': 0.43, '7': 0.28, '11': 0.25, '13': 0.23, 'vse': 0.24}}
+mez q 21: {'q21_c1-1': {'2': 1.02, '3': 1.02, '5': 0.21, '7': 0.21, '11': 0.21, '13': 0.21, 'vse': 0.2}, 'q21_c5-1': {'2': 1.07, '3': 1.07, '5': 0.31, '7': 0.31, '11': 0.28, '13': 0.26, 'vse': 0.25}, 'q21_c3-1': {'2': 0.96, '3': 0.96, '5': 0.25, '7': 0.25, '11': 0.24, '13': 0.21, 'vse': 0.19}, 'q21_c2-1': {'2': 1.12, '3': 1.12, '5': 0.24, '7': 0.24, '11': 0.2, '13': 0.17, 'vse': 0.14}, 'q21_c4-1': {'2': 1.04, '3': 1.04, '5': 0.29, '7': 0.29, '11': 0.28, '13': 0.3, 'vse': 0.29}}
+VERDIKTY: {'odv-hr7-nastroj': 'O', 'odv-hr7-ladeni': 'O', 'odv-hr7-teleso2': 'O'} | 1614 s

@@ -1,0 +1,9 @@
+tabulky 16004 bodů 2.4 s
+q  5: pravá S = [5] | nejbližší jiná S má očekávané Q = 7.3 | 176 s
+q  7: pravá S = [7] | nejbližší jiná S má očekávané Q = 3.3 | 356 s
+q 13: pravá S = [] | nejbližší jiná S má očekávané Q = 3.6 | 532 s
+q 15: pravá S = [3, 5] | nejbližší jiná S má očekávané Q = 9.4 | 708 s
+q 21: pravá S = [3, 7] | nejbližší jiná S má očekávané Q = 10.5 | 884 s
+q  5: prvočíselné meze spočteny | 937 s
+q 15: prvočíselné meze spočteny | 990 s
+q 21: prvočíselné meze spočteny | 1044 s

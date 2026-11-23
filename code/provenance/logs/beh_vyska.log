@@ -1,0 +1,6 @@
+uplnost {'q15_c2-1': (43907, -0.62, 2.36), 'q21_c2-1': (44978, -0.65, 2.03), 'q21_c3-1': (44979, 0.35, 2.2), 'q21_c4-1': (44980, 1.35, 2.29)}
+q15_c2-1 A nahore 1.069 +- 0.042, dole 0.983 +- 0.021 | chi2 BK nahore 1.82 GUE 8.0 | rozestupy max od GUE nahore 0.080 dole 0.106
+q21_c2-1 A nahore 0.917 +- 0.056, dole 0.975 +- 0.024 | chi2 BK nahore 1.07 GUE 4.0 | rozestupy max od GUE nahore 0.071 dole 0.082
+q21_c3-1 A nahore 0.938 +- 0.058, dole 1.025 +- 0.017 | chi2 BK nahore 1.05 GUE 3.5 | rozestupy max od GUE nahore 0.081 dole 0.090
+q21_c4-1 A nahore 0.950 +- 0.067, dole 0.962 +- 0.030 | chi2 BK nahore 1.24 GUE 5.5 | rozestupy max od GUE nahore 0.076 dole 0.093
+sdruzeno: A nahore 0.987 +- 0.027 | V nahore 0.02612 +- 0.00071, dole 0.03632 +- 0.00040 | pomer 0.719 +- 0.021 (teorie 0.727) | kriteria {'a': True, 'b': True, 'c': True, 'd': True} | VERDIKT O

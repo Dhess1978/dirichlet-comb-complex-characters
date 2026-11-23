@@ -1,0 +1,83 @@
+{
+ "skript_sha256": "76d6de4b96ee9d93cdade96f87112fb3c848a09caf42bb2d6321c20718e930c6",
+ "fz_skript_sha256": "f350356b4e1533734a20433021216a3f5973cb0cf82dcdd8d138e9ed0d8b3080",
+ "zkouska": false,
+ "divz_okno": 128,
+ "divz_usek": 512,
+ "okna": [
+  {
+   "L": "q15_c2-1",
+   "q": 15,
+   "chi": [
+    2,
+    1
+   ],
+   "k": 620,
+   "a": 62000.0,
+   "b": 62100.0,
+   "n_puvodni": 188,
+   "n_nove": 190,
+   "ocek": 189.4878,
+   "divz": 128,
+   "pokusu": 1,
+   "pridane": [
+    62027.7401508586,
+    62027.7491002939
+   ],
+   "chybejici_z_puvodnich": [],
+   "max_rozdil_spolecnych": 0.0,
+   "usek": [
+    62027.0,
+    62028.7
+   ],
+   "usek_divz512": [
+    62027.16304200936,
+    62027.7401508586,
+    62027.74910029392,
+    62028.55034287926
+   ],
+   "usek_shoda": true,
+   "soubor": "q15_c2-1/okno_000620.json.gz",
+   "sha256": "60547477ea8eafdbddf8e7c9fbb79923d11adf7b452bf71e069863c6a1f09363",
+   "sekund": 404.6
+  },
+  {
+   "L": "q21_c4-1",
+   "q": 21,
+   "chi": [
+    4,
+    1
+   ],
+   "k": 517,
+   "a": 51700.0,
+   "b": 51800.0,
+   "n_puvodni": 191,
+   "n_nove": 193,
+   "ocek": 191.954,
+   "divz": 128,
+   "pokusu": 1,
+   "pridane": [
+    51751.5759459649,
+    51751.5860134948
+   ],
+   "chybejici_z_puvodnich": [],
+   "max_rozdil_spolecnych": 0.0,
+   "usek": [
+    51750.6,
+    51752.5
+   ],
+   "usek_divz512": [
+    51750.74333747917,
+    51751.57594596495,
+    51751.58601349484,
+    51752.33348285119
+   ],
+   "usek_shoda": true,
+   "soubor": "q21_c4-1/okno_000517.json.gz",
+   "sha256": "beba8c686187efa1c7aa331a886e797ab2af8fe7b68d4afd40cbb02477fec739",
+   "sekund": 504.8
+  }
+ ],
+ "v_poradku": true,
+ "sekund": 909.4
+}

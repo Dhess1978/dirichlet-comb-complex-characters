@@ -1,0 +1,12 @@
+U21: 12 sektorů, 947573 nul; N_g = 216363.8 | 0 s
+11^1 = 11       (mod 21 = 11, šířka jádra 0.00275): |Z|/A 0.0000, |P|/A 0.0000, |Z − P|/A 4.2e-11 | zbytek po odečtení sousedů -0.0000+0.0000i (čeká se 0) | sousedé:  | 0 s
+11^2 = 121      (mod 21 = 16, šířka jádra 0.0302): |Z|/A 0.0000, |P|/A 0.0000, |Z − P|/A 6.7e-10 | zbytek po odečtení sousedů -0.0000-0.0000i (čeká se 0) | sousedé:  | 0 s
+11^3 = 1331     (mod 21 =  8, šířka jádra 0.333): |Z|/A 0.0000, |P|/A 0.0000, |Z − P|/A 1.7e-09 | zbytek po odečtení sousedů +0.0000+0.0000i (čeká se 0) | sousedé:  | 0 s
+11^4 = 14641    (mod 21 =  4, šířka jádra 3.66): |Z|/A 0.0000, |P|/A 0.0000, |Z − P|/A 4.0e-08 | zbytek po odečtení sousedů -0.0000+0.0000i (čeká se 0) | sousedé:  | 0 s
+11^5 = 161051   (mod 21 =  2, šířka jádra 40.3): |Z|/A 4.4157, |P|/A 4.4157, |Z − P|/A 2.4e-07 | zbytek po odečtení sousedů -0.0000+0.0000i (čeká se 0) | sousedé: 161071 (d +20): 4.42, 160903 (d -148): 0.01, 160861 (d -190): 0.00, 161281 (d +230): 0.00 | 1 s
+11^6 = 1771561  (mod 21 =  1, šířka jádra 443): |Z|/A 6.2206, |P|/A 6.2206, |Z − P|/A 1.1e-06 | zbytek po odečtení sousedů -1.0000-0.0000i (čeká se −1) | sousedé: 1771687 (d +126): 5.76, 1771183 (d -378): 4.17, 1771981 (d +420): 3.83, 1771057 (d -504): 3.14 | 1 s
+mřížka kolem 11^5: 801 bodů, největší |Z − P|/A 3.0e-07, největší |Z|/A 5.26; prvočísel ≡ 1 (mod 21) v dosahu 7 | 29 s
+  uvnitř |d| ≤ 300: prvočísel 5, největší |amplituda − 1| 3.8e-07; složených 9, největší |amplituda| 5.0e-07
+čtení z nul a znalosti q u 11^5: 29 kandidátů, podmíněnost 1.8e+07, amplituda v 11^5 = -0.0000+0.0000i plné síly (čeká se 0); největší amplitudy: 160483 (d -568, prvočíslo): 1.001, 161407 (d +356, prvočíslo): 1.000, 161323 (d +272, prvočíslo): 1.000, 161281 (d +230, prvočíslo): 1.000, 161071 (d +20, prvočíslo): 1.000, 160903 (d -148, prvočíslo): 1.000
+mřížka kolem 11^6: 801 bodů, největší |Z − P|/A 1.2e-06, největší |Z|/A 18.47; prvočísel ≡ 1 (mod 21) v dosahu 55 | 59 s
+největší |Z − P|/N_g = 1.9e-10 | 59 s

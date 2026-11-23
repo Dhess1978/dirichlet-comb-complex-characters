@@ -1,0 +1,6 @@
+Oprava dvou oken hr7b (dodatek 7) · začátek 09:51:14
+  q15_c2-1 okno 620 [62000, 62100]: počítám s divz 128 …
+  q15_c2-1 okno 620: původně 188 nul, nově 190 (hladké očekávání 189.49); přidané ['62027.740151', '62027.749100']; z původních chybí 0; společné nuly se liší nejvýš o 0.0e+00; úsek s divz 512 souhlasí | 450 s
+  q21_c4-1 okno 517 [51700, 51800]: počítám s divz 128 …
+  q21_c4-1 okno 517: původně 191 nul, nově 193 (hladké očekávání 191.95); přidané ['51751.575946', '51751.586013']; z původních chybí 0; společné nuly se liší nejvýš o 0.0e+00; úsek s divz 512 souhlasí | 565 s
+OPRAVA V POŘÁDKU (v každém okně přibyly právě 2 nuly, nic nezmizelo) · 10:08:08 · 1014 s

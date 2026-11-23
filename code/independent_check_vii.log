@@ -1,0 +1,27 @@
+ok   3.1 Q, Q_naiv, Q_GUE recomputed (36 numbers)                   
+ok   3.2 Q_ab of 18 pairs and 3 controls recomputed                 
+ok   3.2 pairs are of the same modulus, controls of different moduli 
+ok   3.3 predicted coefficients recomputed from w and chi(p) (56)   
+ok   3.3 chi^2 and p of 56 histograms recomputed, 56 alternatives bracketed 
+ok   3.3 max |c - c_pred| = 5.15e-05 (stored 5.15e-05)              
+ok   3.4 |Z - P|/N_g of 960 points recomputed, max 1.39e-11         
+ok   3.5 z of 48 numbers recomputed                                 
+ok   3.6 predictions of 66 coefficients recomputed (Landau + orthogonality) 
+ok   3.6 chi^2 of 4 histograms recomputed, the alternative bracketed 
+ok   3.7 144 components z recomputed                                
+ok   3.8 Q against BK, GUE, naive and Berry recomputed (60)         
+ok   3.8 Q_ab of 18 pairs recomputed                                
+ok   3.10 Hotelling p of 15 L-functions recomputed from F           
+ok   R Q, z at tau = 1, six estimates, Hotelling F and p recomputed 
+ok   3.11 chosen = truth and score below the next candidate (16)    
+ok   3.12 best subset recomputed = primes dividing q (16)           
+ok   3.13 16 orders = multiplicative orders (recomputed)            
+ok   3.13 predictions of the union coefficients recomputed, max 7.66e-05 
+ok   M1 chi^2 per bin against [8] and GUE recomputed (32)           
+ok   M2 superposition model recomputed with 64 nodes, largest difference 1.2e-08 
+ok   M2 largest |p - p_S| and chi^2 recomputed                      
+ok   M3 amplitudes A of 8 measurements recomputed from the blocks   
+ok   M3 pooled A 0.9872 +- 0.0266, V 0.03632 -> 0.02612, ratio 0.719 +- 0.021 
+ok   18 verdicts recomputed from the pass marks = stored verdicts (all O) {}
+
+25 checks, 0 failed
